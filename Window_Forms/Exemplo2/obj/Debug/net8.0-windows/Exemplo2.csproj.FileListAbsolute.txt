@@ -1,0 +1,14 @@
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\obj\Debug\net8.0-windows\Exemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\obj\Debug\net8.0-windows\Exemplo2.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\obj\Debug\net8.0-windows\Exemplo2.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\obj\Debug\net8.0-windows\Exemplo2.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\bin\Debug\net8.0-windows\Exemplo2.exe
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\bin\Debug\net8.0-windows\Exemplo2.deps.json
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\bin\Debug\net8.0-windows\Exemplo2.runtimeconfig.json
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\bin\Debug\net8.0-windows\Exemplo2.dll
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\bin\Debug\net8.0-windows\Exemplo2.pdb
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\obj\Debug\net8.0-windows\Exemplo2.dll
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\obj\Debug\net8.0-windows\refint\Exemplo2.dll
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\obj\Debug\net8.0-windows\Exemplo2.pdb
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\obj\Debug\net8.0-windows\Exemplo2.genruntimeconfig.cache
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo2\obj\Debug\net8.0-windows\ref\Exemplo2.dll

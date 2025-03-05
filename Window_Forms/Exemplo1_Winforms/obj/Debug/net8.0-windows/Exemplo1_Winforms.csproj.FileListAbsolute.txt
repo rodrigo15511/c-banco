@@ -1,0 +1,14 @@
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\bin\Debug\net8.0-windows\Exemplo1_Winforms.exe
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\bin\Debug\net8.0-windows\Exemplo1_Winforms.deps.json
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\bin\Debug\net8.0-windows\Exemplo1_Winforms.runtimeconfig.json
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\bin\Debug\net8.0-windows\Exemplo1_Winforms.dll
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\bin\Debug\net8.0-windows\Exemplo1_Winforms.pdb
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\obj\Debug\net8.0-windows\Exemplo1_Winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\obj\Debug\net8.0-windows\Exemplo1_Winforms.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\obj\Debug\net8.0-windows\Exemplo1_Winforms.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\obj\Debug\net8.0-windows\Exemplo1_Winforms.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\obj\Debug\net8.0-windows\Exemplo1_Winforms.dll
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\obj\Debug\net8.0-windows\refint\Exemplo1_Winforms.dll
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\obj\Debug\net8.0-windows\Exemplo1_Winforms.pdb
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\obj\Debug\net8.0-windows\Exemplo1_Winforms.genruntimeconfig.cache
+C:\Users\rodrigoterra\Desktop\csharpbanco\Window_Forms\Exemplo1_Winforms\obj\Debug\net8.0-windows\ref\Exemplo1_Winforms.dll
