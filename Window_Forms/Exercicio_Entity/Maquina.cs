@@ -25,10 +25,9 @@ namespace Exercicio_Entity
         public int Placa_Rede { get; set; }
         [Column("Memoria_Ram")]
         public int Memoria_Ram { get; set; }
-        [Column("Fk_Usuario")]
         [ForeignKey("Usuario")]
+        [Column("Fk_Usuario")]
         public int Fk_Usuario { get; set; }
-        public Usuario Usuario { get; set; }
 
 
     }

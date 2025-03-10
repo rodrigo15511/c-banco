@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
@@ -11,14 +12,16 @@ namespace Exercicio_Entity
     {
         [Key]
         [Column("id_usuario")]
-        public int Id { get; set; }
-        [Column("Passoword")]
-        public string Password { get; set; }
-        [Column("Nome")]
-        public string Nome { get; set; }
+        public int Id { get; set; } 
+        [Column("Password")]
+        public string Password { get; set; } = string.Empty;
+        [Column("Nome_Usuario")]
+        public string Nome_Usuario { get; set; } = string.Empty;
         [Column("Ramal")]
-        public int Ramal { get; set; }
+        public int Ramal { get; set; } 
         [Column("Especialidade")]
-        public string Especialidade { get; set; }
+        public string Especialidade { get; set; } = string.Empty;
+
+
     }
 }
